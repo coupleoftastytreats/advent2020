@@ -7,8 +7,8 @@ What do you get if you multiply together the number of trees encountered on each
 
 
 def solve(right=3, down=1):
-    sample = ("""
-    .#..........#......#..#.....#.."
+    sample_pattern = ("""
+    .#..........#......#..#.....#..
     ....#.............#.#....#..#..
     .....##...###....#..#.......#..
     .#....#..#......#........#.....
